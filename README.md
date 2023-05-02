@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohidul.islam@bjitacademy.com**
 
-- ⚡ Fun fact **Work should be fun, even for software engineers. Forty-nine percent of respondents cited their biggest reason for not liking a specific language as "it's not fun to program."**
+- ***⚡ Fun fact*** **Work should be fun, even for software engineers. Forty-nine percent of respondents cited their biggest reason for not liking a specific language as "it's not fun to program."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
