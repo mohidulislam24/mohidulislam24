@@ -21,6 +21,7 @@
 <hr>
   
 <h3 align="left">🎓Education</h3>
+
 - Jahangirnagar University, B.Sc. in Computer Science and Engineering. 
 
 <hr>
