@@ -12,8 +12,8 @@
 - 📫 How to reach me **mohidul.islam@bjitacademy.com**
 
 - ⚡ Fun fact **Work should be fun, even for software engineers. Forty-nine percent of respondents cited their biggest reason for not liking a specific language as "it's not fun to program."**
-- 
-- <h3 align="left">💻Work Experience</h3>
+
+ <h3 align="left">💻Work Experience</h3>
 - Trainee Software Engineer, BJIT Academy, April 2023 - Present
 
   - Full-stack Web Developer (Java2 EE)
