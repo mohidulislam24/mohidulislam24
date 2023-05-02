@@ -36,7 +36,7 @@
 
 - Java2EE in BJIT
 
-- Front End Bootcamp at BongoDev
+- Front End Bootcamp in BongoDev
 
 <hr>
 
