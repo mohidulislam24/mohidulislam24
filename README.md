@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohidulislam23" alt="mohidulislam23" /></a> </p>
 
-- 🌱 I’m currently learning **advanced java.**
+- 🌱 I’m currently learning **advance java.**
 
 - 💬 Ask me about **Topics: SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub, Project Management & Strategy Technologies: PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Figma**
 
