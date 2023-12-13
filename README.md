@@ -12,7 +12,8 @@
 
 - 🌱 I’m currently working on **advance java.**
 
-- 💬 Ask me about **Topics: SDLC, Software Development Methodologies, Alige, Scrum, Software Development Process, Git/GitHub, Project Management & Strategy Technologies: Spring Boot, Microservice, ReactJS, Django, Java, Python, HTML, CSS, MySQL, Figma**
+- 💬 Ask me about </br>**Topics: SDLC, Software Development Methodologies, Alige, Scrum, Software Development Process, Git, GitHub
+                  </br> Project Management & Strategy Technologies: Spring Boot, Microservice, ReactJS, Django, Java, Python, HTML, CSS, MySQL, Figma**
 
 - 📫 How to reach me **mohidul.cseju27@gmail.com** <!-- **mohidul.islam@bjitacademy.com** -->
 
