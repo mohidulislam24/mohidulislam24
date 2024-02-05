@@ -28,8 +28,8 @@
 <hr>
 
 <h3 align="left">💻Work Experience</h3>
-
-  - Softwarer Engineer(Backend), Dhrubok Infotech Services Ltd. , September 2023 - Present
+  - Java Developer, Giga Tech Ltd. , January 2024 - Present
+  - Softwarer Engineer(Backend), Dhrubok Infotech Services Ltd. , September 2023 - January 2024
   - JAVA2 EE Trainee Software Engineer, BJIT Academy, April 2023 - August 2023
 
   - Full-stack Web Developer (Java2 EE)
