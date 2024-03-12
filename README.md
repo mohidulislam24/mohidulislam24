@@ -4,7 +4,7 @@
 [![Software Engineer](https://img.shields.io/badge/Software-Engineer-blue.svg)](https://mohidul-islam23.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Md. Mohidul Islam</h1>
-<h3 align="center">A passionate software developer from Bangladesh.</h3>
+<h3 align="center">A passionate full stack software developer from Bangladesh.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohidulislam23&label=Profile%20views&color=0e75b6&style=flat" alt="mohidulislam23" /> </p>
