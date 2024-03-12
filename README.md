@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohidulislam23&label=Profile%20views&color=0e75b6&style=flat" alt="mohidulislam23" /> </p>
 
 
-- 🌱 I’m currently working on **advance java.**
+- 🌱 I’m currently working on **advance java.** 
 
 - 💬 Ask me about </br>**Topics: SDLC, Software Development Methodologies, Alige, Scrum, Software Development Process, Git, GitHub
                   </br> Project Management & Strategy Technologies: Spring Boot, Microservice, ReactJS, Django, Java, Python, HTML, CSS, MySQL, Figma**
