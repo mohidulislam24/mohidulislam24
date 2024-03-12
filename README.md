@@ -21,11 +21,6 @@
 - ⚡ Fun fact <br/>**Work should be fun, even for software engineers.
                 <br/> Forty-nine percent of respondents cited their biggest reason for not liking a specific language as "it's not fun to program."**
   
-<h3 align="left">🎓Education</h3>
-
-- M.Sc. in Computer Science and Engineering, Jahangirnagar University.
-- B.Sc. in Computer Science and Engineering, Jahangirnagar University. 
-- HSC, Agricultural University College, Mymensingh.
 
 <hr>
 
@@ -43,6 +38,14 @@
 - Java2EE in BJIT
 
 - Front End Bootcamp in BongoDev
+
+<hr>
+
+<h3 align="left">🎓Education</h3>
+
+- M.Sc. in Computer Science and Engineering, Jahangirnagar University.
+- B.Sc. in Computer Science and Engineering, Jahangirnagar University. 
+- HSC, Agricultural University College, Mymensingh.
 
 <hr>
 
