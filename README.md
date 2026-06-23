@@ -26,7 +26,7 @@
 
 <h3 align="left">💻Work Experience</h3>
   
-  - Software Engineer, Giga Tech Ltd. , January 2024 - Present
+  - Software Engineer, Giga Tech Ltd. , January 2024 - May 2025
   - Software Engineer(Backend), Dhrubok Infotech Services Ltd. , September 2023 - January 2024
   - JAVA2 EE Trainee Software Engineer, BJIT Academy, April 2023 - August 2023
 
